@@ -1,0 +1,13 @@
+setup.py
+workflow/__init__.py
+workflow.egg-info/PKG-INFO
+workflow.egg-info/SOURCES.txt
+workflow.egg-info/dependency_links.txt
+workflow.egg-info/requires.txt
+workflow.egg-info/top_level.txt
+workflow/core/__init__.py
+workflow/core/job_automation.py
+workflow/core/slurm_automation.py
+workflow/lammps/__init__.py
+workflow/lammps/lammps.py
+workflow/lammps/lammps_input_generator.py
